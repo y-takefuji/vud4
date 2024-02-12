@@ -21,4 +21,4 @@ enter one of age groups: vud4 80+
 
 $ vud4 80+
 
-<img src='https://github.com/ytakefuji/vud4/raw/main/bivalent_80%2B.png' height=240 width=280>
+<img src='https://github.com/y-takefuji/vud4/raw/main/bivalent_80%2B.png' height=240 width=280>
